@@ -11,7 +11,7 @@
                    <key>kind</key>
                    <string>software-package</string>
                    <key>url</key>
-                   <string>http://192.168.1.188/down/xysanguo.ipa</string>
+                   <string>http://123.57.164.65:8081/down/xysanguo.ipa</string>
                </dict>
                <dict>
                    <key>kind</key>
@@ -19,7 +19,7 @@
                    <key>needs-shine</key>
                    <true/>
                    <key>url</key>
-                   <string>http://192.168.1.188/down/Icon120.png</string>
+                   <string>http://123.57.164.65:8081/down/Icon120.png</string>
                </dict>
            </array>
            <key>metadata</key>
